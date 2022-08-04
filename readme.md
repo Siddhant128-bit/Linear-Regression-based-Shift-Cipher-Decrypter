@@ -31,5 +31,11 @@ As seen in the figure above we have cipher text encrypted with key 5 is </br><br
 Now we are going to feed the encrypted text in our model to check out the results and seen reult is shown below: 
 <br><br>
 <img src='Results\result_ciphering.png'>
+<h3>More Results </h3>
+<br><br>
+<img width='500' height='50'src='Results\result_ciphering_1.png'>
+
+<br><br>
+<img width='500' height='50' src='Results\result_ciphering_2.png'>
 
 <b>Note: This site works on shift cipher based on alphabets only and doesn't work on ASCII based shift cipher so it might have slight erro for genearting encrypted text you can use <i>createdataset.py</i> to encrypt with key 5 and get the text </b>
