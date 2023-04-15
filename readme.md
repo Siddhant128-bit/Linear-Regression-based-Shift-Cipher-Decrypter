@@ -38,4 +38,4 @@ Now we are going to feed the encrypted text in our model to check out the result
 <br><br>
 <img width='500' height='50' src='Results\result_ciphering_2.png'>
 
-<b>Note: This site works on shift cipher based on alphabets only and doesn't work on ASCII based shift cipher so it might have slight erro for genearting encrypted text you can use <i>createdataset.py</i> to encrypt with key 5 and get the text </b>
+<b>Note: This site works on shift cipher based on alphabets only and doesn't work on ASCII based shift cipher so it might have slight error for genearting encrypted text you can use <i>createdataset.py</i> to encrypt with key 5 and get the text </b>
